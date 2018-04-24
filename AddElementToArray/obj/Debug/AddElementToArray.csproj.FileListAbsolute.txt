@@ -1,0 +1,5 @@
+D:\CodeGYM\8.Mảng\Bài tập\AddElementToArray\AddElementToArray\AddElementToArray\bin\Debug\AddElementToArray.exe.config
+D:\CodeGYM\8.Mảng\Bài tập\AddElementToArray\AddElementToArray\AddElementToArray\bin\Debug\AddElementToArray.exe
+D:\CodeGYM\8.Mảng\Bài tập\AddElementToArray\AddElementToArray\AddElementToArray\bin\Debug\AddElementToArray.pdb
+D:\CodeGYM\8.Mảng\Bài tập\AddElementToArray\AddElementToArray\AddElementToArray\obj\Debug\AddElementToArray.exe
+D:\CodeGYM\8.Mảng\Bài tập\AddElementToArray\AddElementToArray\AddElementToArray\obj\Debug\AddElementToArray.pdb
